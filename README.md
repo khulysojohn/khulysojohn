@@ -20,9 +20,7 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akintobi-ayodeji-86a675236" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akintobi-ayodeji-86a675236" height="30" width="40" /></a>
  
-<a href="https://t.me/sabercm" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/telegram_logo.svg" alt="Telegram" height="30" width="30" />
-</a>
+
 </p>
 
 <br />
