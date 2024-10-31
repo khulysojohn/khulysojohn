@@ -15,12 +15,12 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 <p align="left">
 
 <!-- Twitter -->
-<a href="https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" target="_blank">
+<a href="https://twitter.com/khulysojohn" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" />
 </a>
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/akintobi-ayodeji-86a675236" target="_blank">
+<a href="https://linkedin.com/in/khulyso" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
 </a>
 
