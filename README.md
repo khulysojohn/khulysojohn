@@ -15,7 +15,7 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 
 ## Get in touch!
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" target="blank"><img align="center" src="https://khulyso-john.sirv.com/khulysojohn/x.png" alt="https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" target="blank"><img align="center" src="https://khulyso-john.sirv.com/khulysojohn/x.svg" alt="https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" height="30" width="40" /></a>
  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akintobi-ayodeji-86a675236" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akintobi-ayodeji-86a675236" height="30" width="40" /></a>
