@@ -13,17 +13,62 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 ## Get in Touch!
 
 <p align="left">
-<a href="https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" target="_blank"><img align="center" src="https://khulyso-john.sirv.com/khulysojohn/x.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akintobi-ayodeji-86a675236" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1234567/khulysojohn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://hashnode.com/@khulysojohn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
-<a href="https://dev.to/khulysojohn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="DEV Community" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCsQxYeT1ObK1F4wFLeGYHRg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://www.facebook.com/khulysojohn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://t.me/khulysojohn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>
-<a href="https://wa.me/1234567890" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@khulysojohn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="TikTok" height="30" width="40" /></a>
-<a href="https://www.instagram.com/khulysojohn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/akintobi-ayodeji-86a675236" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+</a>
+
+<!-- Stack Overflow -->
+<a href="https://stackoverflow.com/users/1234567/khulysojohn" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" height="30" />
+</a>
+
+<!-- Hashnode -->
+<a href="https://hashnode.com/@khulysojohn" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="30" />
+</a>
+
+<!-- DEV Community -->
+<a href="https://dev.to/khulysojohn" target="_blank">
+    <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" height="30" />
+</a>
+
+<!-- YouTube -->
+<a href="https://www.youtube.com/channel/UCsQxYeT1ObK1F4wFLeGYHRg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30" />
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/khulysojohn" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="30" />
+</a>
+
+<!-- Telegram -->
+<a href="https://t.me/khulysojohn" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30" />
+</a>
+
+<!-- WhatsApp -->
+<a href="https://wa.me/1234567890" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" />
+</a>
+
+<!-- TikTok -->
+<a href="https://www.tiktok.com/@khulysojohn" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="30" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/khulysojohn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" />
+</a>
+
 </p>
 
 ---
@@ -77,8 +122,3 @@ I love sharing knowledge and helping other developers.
 ![](https://github-contributor-stats.vercel.app/api?username=Khulysojohn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </details>
-
-
-
-
-
