@@ -2,7 +2,7 @@
 
 My name is Khuliso John Thavhiwa, a Frontend Developer.
 
-- 🔭 I’m currently a cohort member at [Techbridle Solution](https://www.techbridlesolution.co.za)
+- 🔭 I’m currently a cohort member at [Techbridle Foundation](https://techbridlefoundation.org/)
 - 📫 How to reach me: **khulysojohn@gmail.com**
 - 💻 Portfolio Website: [https://khulysojohn.netlify.app](https://khulysojohn.netlify.app)
 - ⚡ Fun fact: **I'm also a tutor**
